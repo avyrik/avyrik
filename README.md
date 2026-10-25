@@ -1,51 +1,94 @@
-<!--
-**angaddsinghh/angaddsinghh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://raw.githubusercontent.com/avyrik/avyrik/refs/heads/main/banner.png"  />
+</div>
 
-<div align="center">
+###
 
-<img src="https://raw.githubusercontent.com/avyrik/avyrik/refs/heads/main/banner.png" width="100%" />
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
+</div>
 
-<h1>yo its avyrik</h1>
+###
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/avyriksgroup)
-[![Matrix](https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@angad:mozilla.org)
-[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/avyrik_)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@avyrik)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:angadsingh0@proton.me)
-[![Website](https://img.shields.io/badge/avyrik.github.io-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://avyrik.github.io)
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/angad-singh-577a06446/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="72" height="60" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/avyrik_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="72" height="60" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/@avyrik" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="72" height="60" alt="youtube logo"  />
+  </a>
+  <a href="https://t.me/avyriksgroup" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="72" height="60" alt="telegram logo"  />
+  </a>
+  <a href="https://matrix.to/#/@angad:mozilla.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/matrix/default.svg" width="72" height="60" alt="matrix logo"  />
+  </a>
+  <a href="mailto:angadsingh0@proton.me" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="72" height="60" alt="gmail logo"  />
+  </a>
+</div>
 
-<h2>languages</h2>
+###
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com)
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://github.com)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://github.com)
-[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://github.com)
-<h2>featured projects</h2>
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
+</div>
 
-[![Galaxy News](https://img.shields.io/badge/Galaxy_News-6B46C1?style=for-the-badge&logo=rss&logoColor=white)](https://alleycoders.github.io/galaxy-news/)
-[![Dotfiles](https://img.shields.io/badge/Dotfiles-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/angaddsinghh/dotfiles)
+###
 
-<h2>info</h2>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Avyrik/Avyrik/trophy-output/trophy.svg?theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-[![My Life](https://img.shields.io/badge/MY_LIFE-FAILING-critical?style=for-the-badge&logo=doomemacs&logoColor=white)](https://github.com)
-[![sanity check](https://img.shields.io/badge/sanity-segfault-critical?style=for-the-badge&logo=linux&logoColor=white)]()
-[![sleep schedule](https://img.shields.io/badge/sleep%20schedule-undefined-important?style=for-the-badge&logo=gnome&logoColor=white)]()
+###
 
-<div align="left">
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
+</div>
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=go" height="50" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="50" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+</div>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Avyrik/Avyrik/snake-output/snake.svg" alt="Snake animation" />
+
+###
